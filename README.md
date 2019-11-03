@@ -4,7 +4,14 @@ it a website for advertising my company online showing detailed information abou
  ## INTRODUCTION
  THE AFRICAN WHEELS AND EXHAUSTS is mechanical company specilising in car suspension which is located in Marondera,Zimbabawe.So
  l have decided to create a website to create a website to adresss the problem being faced by customers of knowing less information about
- our company.
+ our company.Im also going to show more information about THE AFRICAN WHEELS AND EXHAUSTS
+# FEAUTURES
+  WHEEEL ALIGNMENT
+  WHEEL BALANCING
+  EXHAUST REPAIR
+  CAR WASH
+  TYRE PRESSURE
+
 
 ##  MATERIALS to be used for this App
 1. HTML
