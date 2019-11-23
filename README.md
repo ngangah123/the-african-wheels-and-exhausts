@@ -40,5 +40,5 @@ it a website for advertising my company online showing detailed information abou
 * Week 15 : Final Release
 
 <p align="center">
->><a href="https://ngangah123.github.io/the-african-wheels-and-exhausts/">INDEX</a><<<br>
+>><a href="https://ngangah123-the-african-wheels-and-exhausts.glitch.me/">INDEX</a><<<br>
 <br>
